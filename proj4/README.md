@@ -1,2 +1,2 @@
-# su19-proj4-starter
-Starter code for Summer 2019 Project 4
+# proj4
+Summer 2019 Project 4: Performance Programming (Optimized-CNN)
