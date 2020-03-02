@@ -1,0 +1,12 @@
+---
+:id: 19170120
+:submitters:
+- :name: Michael Park
+  :email: byeongmin@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-08-01 10:48:18.735486000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-08-01 03:48:18.735486000 Z
+:status: processed
+:score: 75.0
