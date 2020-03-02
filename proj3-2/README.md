@@ -1,2 +1,2 @@
 # proj3-2
-Project 3.2: CPU
+Summer 2019 Project 3.2: CPU
